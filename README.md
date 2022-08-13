@@ -19,12 +19,6 @@
 - ✔ Tailwind CSS
 - ✔ REACT
 
-- 📫 How to reach me: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-alena%20okolike-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/assumpta-okolike/)](www.linkedin.com/in/assumpta-okolike)
-
-[![Twitter Badge](https://img.shields.io/badge/-@miss_alena_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AOkolike)](twitter.com/AOkolike)
-
 - 😄 Pronouns: Miss
 
 - ✌Please stay tuned for more updates. 
