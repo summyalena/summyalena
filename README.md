@@ -7,7 +7,7 @@
 
 - I'm Assumpta Okolike preferably called **Alena**
 - 🔭 I’m currently working on becoming a full-stack developer.
-- 🌱 I’m currently learning at  ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🌱 I’m learning at  ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 👯 I'm open to new job opportunites and open source projects.
 
 - ⚡ Fun fact: I read books and listen to good Music 🎶 when I'm not coding 😊
