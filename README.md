@@ -2,18 +2,22 @@
    
 ![Assumpta OKOLIKE (2)](https://user-images.githubusercontent.com/95056164/184503090-a881b65e-c78a-4914-8569-54d854bcd650.gif)
 
-### **About Me**
+### 🧐 **A little about Me**
 <img src="https://media.giphy.com/media/4aCYOKoGNHssVliMTV/giphy.gif" align="right" width="250">
 
 - I'm Assumpta Okolike preferably called **Alena**
-- 🔭 I’m currently working on becoming a full-stack developer.
-- 🌱 I’m learning at  ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭&nbsp; I’m currently working on becoming a full-stack developer.
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 🌱&nbsp; I’m learning Ruby & Rails at  ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 👯 I'm open to new job opportunites and open source projects.
 
 - ⚡ Fun fact: I read books and listen to good Music 🎶 when I'm not coding 😊
 
-### Some Technologies I enjoy working with with:
-- ✔ HTML
+### 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/assumpta-okolike) 
+-  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/summyalena)
+
+### 🔨 My Technologies, frameworks and Languages:
+- ✔ HTML5
 - ✔ CSS 
 - ✔ Javascript
 - ✔ Tailwind CSS
