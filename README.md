@@ -8,14 +8,14 @@
 - I'm Assumpta Okolike preferably called **Alena**
 - 🔭 I’m currently working on becoming a full-stack developer.
 - 🌱 I’m currently learning at  ![](https://img.shields.io/badge/Microverse-blueviolet)
-- 👯 I’m looking to collaborate on open source projects and I'm open to work opportunites.
+- 👯 I'm open to new job opportunites and open source projects.
 
 - ⚡ Fun fact: I read books and listen to good Music 🎶 when I'm not coding 😊
 
 ### Some Technologies I enjoy working with with:
 - ✔ HTML
 - ✔ CSS 
-- ✔ Javscript
+- ✔ Javascript
 - ✔ Tailwind CSS
 - ✔ REACT
 
