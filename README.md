@@ -1,5 +1,7 @@
-
+<p align="center">
+ 
 ![Assumpta OKOLIKE (2)](https://user-images.githubusercontent.com/95056164/184503090-a881b65e-c78a-4914-8569-54d854bcd650.gif)
+ </p>
 
 <h1 align="center">Hi 👋, I'm Assumpta! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80"> </h1>
 
