@@ -11,7 +11,10 @@
 
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=summyalena&label=Profile%20views&color=0e75b6&style=flat" alt="summyalena" /> <a href="https://twitter.com/aokolike" target="blank"><img src="https://img.shields.io/twitter/follow/aokolike?logo=twitter&style=for-the-badge" alt="aokolike" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=summyalena&label=Profile%20views&color=0e75b6&style=flat" alt="summyalena" /> </p> 
+<p align="center">
+<a href="https://twitter.com/aokolike" target="blank"><img src="https://img.shields.io/twitter/follow/aokolike?logo=twitter&style=for-the-badge" alt="aokolike" /></a> 
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=summyalena" alt="summyalena" /></a> </p>
 
@@ -39,9 +42,11 @@
 <table>
 <tr>
 <td valign="center">
-🤍 I'm Assumpta Okolike preferably called *Alena*
 
-🔭 who is currently working on **becoming a full-stack developer**** with ruby on rails as the backend language
+🤍 I'm Assumpta Okolike preferably called **Alena**
+
+
+🔭 who is currently working on **becoming a full-stack developer** with ruby on rails as the backend language
 
 🌱&nbsp; I’m a remote student at  ![](https://img.shields.io/badge/Microverse-blueviolet) where we implement remote collaborative learning amongst fellow student developers by building projects.
 
@@ -69,7 +74,7 @@
 
 😄 **Pronouns: Miss**
 <td>
-<img align="right" width="400" height="300" alt="coding" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"/>
+<img align="right" width="700" height="400" alt="coding" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"/>
 
 </td>
 </tr>
