@@ -3,47 +3,81 @@
 
 <h1 align="center">Hi 👋, I'm Assumpta! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80"> </h1>
 
-<h2 align="center">A passionate budding Full-stack developer from Nigeria.</h2>
+<p align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=summyalena&label=Profile%20views&color=0e75b6&style=flat" alt="summyalena" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira-code&pause=1000&color=F71D8C&center=true&vCenter=true&width=435&lines=Passionate+budding+full-stack+developer;from+Nigeria.)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=summyalena" alt="summyalena" /></a> </p>
+</p>
 
-<p align="left"> <a href="https://twitter.com/aokolike" target="blank"><img src="https://img.shields.io/twitter/follow/aokolike?logo=twitter&style=for-the-badge" alt="aokolike" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=summyalena&label=Profile%20views&color=0e75b6&style=flat" alt="summyalena" /> <a href="https://twitter.com/aokolike" target="blank"><img src="https://img.shields.io/twitter/follow/aokolike?logo=twitter&style=for-the-badge" alt="aokolike" /></a> </p>
 
-### 🧐 **A little about Me**
-<img align="right" width="auto" height="300" alt="coding" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=summyalena" alt="summyalena" /></a> </p>
 
-- 🤍 **I'm Assumpta Okolike preferably called **Alena****
+<br/>
 
-- 🔭 **who is currently working on **becoming a full-stack developer**** with ruby on rails as the backend language
+```javascript
+ function Details (fullName, role, greeting) {
+  this.name = fullName;
+  this.role = role;
+  this.message = greeting;
+ }
 
-- 🌱&nbsp; **I’m a remote student at**  ![](https://img.shields.io/badge/Microverse-blueviolet) where we implement remote collaborative learning amongst fellow student developers by building projects.
+ const Me = new Details('Assumpta Okolike', 'Budding full-stack developer', 'Nice to meet You!😀');
 
-- 👯 **and I'm open to new job opportunites.**
+ function Introduction(){
+  console.log(`Hello! I am ${Me.name} and I'm a ${Me.role}. ${Me.message}`)
+ }
 
-- 👯 **I’m also looking to collaborate on **Open source projects****
-
-- ⚡⚡ I spend my time watching youtube tutorials on better ways to develop on my current stack. 
-
-- 💬 **You can ask me about **Javascript****
-
-- 📫 How to reach me at:
-- [![GitHub Badge](https://img.shields.io/badge/-summyalena-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/summyalena)
-- [![Twitter Badge](https://img.shields.io/badge/-aokolike-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/aokolike)
-- [![LinkedIn Badge](https://img.shields.io/badge/-assumptaokolike-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/assumpta-okolike/)
-- [![Gmail Badge](https://img.shields.io/badge/-@summyalena-white?logo=Gmail&logoColor=EA4335&style=plastic)](Alena:summyalena@gmail.com)
-
-
-- ⚡ **Fun fact **I listen to good music 🎶 and read good books when I'm not coding**** 😊
-
-- 😄 **Pronouns: Miss**
+ Introduction(Me);
+```
 ---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-..coming-soon
-<!-- BLOG-POST-LIST:END -->
+### 🧐 **A little about Me**
+
+<table>
+<tr>
+<td valign="center">
+🤍 I'm Assumpta Okolike preferably called *Alena*
+
+🔭 who is currently working on **becoming a full-stack developer**** with ruby on rails as the backend language
+
+🌱&nbsp; I’m a remote student at  ![](https://img.shields.io/badge/Microverse-blueviolet) where we implement remote collaborative learning amongst fellow student developers by building projects.
+
+👯 **and I'm open to new job opportunites.**
+
+👯 **I’m also looking to collaborate on **Open source projects****
+
+⚡⚡ **I spend my time watching youtube tutorials on better ways to develop on my current stack.** 
+
+💬 **You can ask me about **Javascript****
+
+<details>
+<summary> 📫 How to reach me at: </summary>
+
+- [![GitHub Badge](https://img.shields.io/badge/-summyalena-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/summyalena)
+
+- [![Twitter Badge](https://img.shields.io/badge/-aokolike-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/aokolike)
+
+- [![LinkedIn Badge](https://img.shields.io/badge/-assumptaokolike-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/assumpta-okolike/)
+
+- [![Gmail Badge](https://img.shields.io/badge/-@summyalena-white?logo=Gmail&logoColor=EA4335&style=plastic)](Alena:summyalena@gmail.com) 
+</details>
+
+⚡ **Fun fact **I listen to good music 🎶 and read good books when I'm not coding**** 😊
+
+😄 **Pronouns: Miss**
+<td>
+<img align="right" width="400" height="300" alt="coding" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+---
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=summyalena&theme=react-dark&hide_border=true)
 
 ---
 
@@ -76,6 +110,9 @@
 <!-- <h2>Weekly Coding Stats</h2>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=summyalena&" alt="summyalena" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=summyalena&" alt="summyalena" />
+</p>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=summyalena&theme=highcontrast&hide_border=true" alt="summyalena"/>
 
 - 🌹Thank you for stepping by.
