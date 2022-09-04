@@ -27,7 +27,7 @@
 
 - 💬 **Ask me about **Javascript****
 
-- 📫 How to reach me **[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/summyalena), [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/assumpta-okolike), [![Gmail](https://i.stack.imgur.com/gVE0j.png) Gmail](summyalena@gmail.com)**
+- 📫 How to reach me **[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/summyalena), [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/assumpta-okolike), summyalena@gmail.com**
 
 - ⚡ **Fun fact **I listen to good music and read good books when I'm not coding**** 😊
 
