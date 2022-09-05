@@ -5,10 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Assumpta! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80"> </h1>
 
+
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira-code&pause=1000&color=F71D8C&center=true&vCenter=true&width=435&lines=Passionate+budding+full-stack+developer;from+Nigeria.)](https://git.io/typing-svg)
-
+<a href="https://github.com/summyalena/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Budding%20Full-stack;web%20app%20developer;From%20Nigeria;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=45&color=F71D8C&vCenter=true&size=21&pause=500"></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=summyalena&label=Profile%20views&color=0e75b6&style=flat" alt="summyalena" /> </p> 
