@@ -1,8 +1,7 @@
 ![Header](https://user-images.githubusercontent.com/95056164/188405529-00f5bf8c-cc5f-4229-8776-6d4426a32169.jpg)
 
-<h2 align="center">Hi 👋, Welcome to <a href="https://github.com/summyalena"> Assumpta's</a> Profile!
- 
- <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80"> </h2>
+<h1 align="center">Hi 👋, Welcome to <a href="https://github.com/summyalena"> Assumpta's</a> Profile!
+ <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80"> </h1>
  
 <p align="center">
 <a href="https://github.com/summyalena/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Budding%20Full-stack;web%20app%20developer;From%20Nigeria;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=45&color=F71D8C&vCenter=true&size=21&pause=500"></a>
