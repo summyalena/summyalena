@@ -12,6 +12,8 @@
 <a href="https://twitter.com/aokolike" target="blank"><img src="https://img.shields.io/twitter/follow/aokolike?logo=twitter&style=for-the-badge" alt="aokolike" /></a> 
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=summyalena" alt="summyalena" /></a> </p>
+
 <br/>
 
 ```javascript
